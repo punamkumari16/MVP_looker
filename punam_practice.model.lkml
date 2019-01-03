@@ -4,7 +4,7 @@ include: "*.view"
 
 include: "*.dashboard"
 
-explore: looker_test_punam {}
+explore: looker_test_punam1 {}
 
 view: looker_test_punam1 {
   derived_table: {
