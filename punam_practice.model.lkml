@@ -1,9 +1,7 @@
 connection: "cdptraining01_sqls_staging_conn"
 
-# include all the views
 include: "*.view"
 
-# include all the dashboards
 include: "*.dashboard"
 
 explore: looker_test_punam {}
