@@ -11,3 +11,9 @@ explore: lightyear_test1 {
 
   view_label: ""
 }
+
+explore: lightyear_fa_customer_train {
+  label: "FA_CUSTOMER_TRAIN"
+
+  view_label: ""
+}
