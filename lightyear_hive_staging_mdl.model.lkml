@@ -1,7 +1,13 @@
-connection: "lightyear_hive_staging_conn"
+connection: "lightyear_athena_mastering_conn"
 
-label: "HIVE Staging"
+label: "HIVE Mastering"
 
 include: "*.view"
 
-include: "*.dashboard"
+#include: "*.dashboard"
+
+explore: lightyear_vw_vw_customer_swid {
+  label: "VW_VW_CUSTOMER_SWID"
+
+  view_label: ""
+}
