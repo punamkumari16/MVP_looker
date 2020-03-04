@@ -17,3 +17,10 @@ explore: lightyear_fa_customer_train {
 
   view_label: ""
 }
+
+
+explore: lightyear_fa_customer_4mar {
+  label: "FA_CUSTOMER_4MAR"
+
+  view_label: ""
+}
