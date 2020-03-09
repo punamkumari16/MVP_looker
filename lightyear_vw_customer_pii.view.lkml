@@ -16,6 +16,11 @@ type: string
 sql: ${TABLE}.last_name ;;
 }
 
+dimension: email_address {
+type: string
+sql: ${TABLE}.email_address ;;
+}
+
 dimension: country {
 type: string
 sql: ${TABLE}.country ;;
