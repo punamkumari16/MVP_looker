@@ -11,3 +11,10 @@ explore: lightyear_vw_vw_customer_swid {
 
   view_label: ""
 }
+
+
+explore: lightyear_vw_customer_pii {
+  label: "VW_CUSTOMER_PII"
+
+  view_label: ""
+}
