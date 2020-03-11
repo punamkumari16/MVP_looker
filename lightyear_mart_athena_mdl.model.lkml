@@ -14,3 +14,9 @@ explore: Segment_overlap {
 
   view_label: ""
 }
+
+explore: segment_count_dummy {
+  label: "Segment Count Dummy"
+
+  view_label: ""
+}
