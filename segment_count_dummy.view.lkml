@@ -1,6 +1,6 @@
 view: segment_count_dummy {
   derived_table: {
-    sql: SELECT * FROM TEMP_SEGMENT_COUNT_DUMMY;
+    sql: SELECT * FROM TEMP_SEGMENT_COUNT_DUMMY
       ;;
   }
 
