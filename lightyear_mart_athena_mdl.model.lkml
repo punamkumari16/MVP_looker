@@ -22,11 +22,11 @@ explore: segment_count_dummy {
 
 
 explore: segment_count {
-  label: "Segment Count Final"
+  label: "Segment Count"
 }
 
 explore: segment_overlap {
-  label: "Segment Overlap Final"
+  label: "Segment Overlap"
 }
 
 explore: segment_line_chart_dummy {}
