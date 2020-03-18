@@ -12,11 +12,13 @@ view: segment_count_dummy {
   }
 
   dimension: segment_name {
+    label: "S1"
     type: string
     sql: ${TABLE}.segment_name ;;
   }
 
   dimension: segment_count {
+    label: "TS1"
     type: number
     sql: ${TABLE}.segment_count ;;
   }
