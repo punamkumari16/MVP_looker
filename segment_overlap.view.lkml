@@ -1,6 +1,8 @@
 view: segment_overlap {
   derived_table: {
-    sql: select * from FA_SEGMENT_OVERLAPPING_COUNTS
+    sql: select segment1,segment2,count_segment1,count_segment2,seg_overlap_count,
+      round(per_seg_overlap12,2) as per_seg_overlap12 ,
+      round(per_seg_overlap21,2) as per_seg_overlap21 from FA_SEGMENT_OVERLAPPING_COUNTS
       ;;
   }
 

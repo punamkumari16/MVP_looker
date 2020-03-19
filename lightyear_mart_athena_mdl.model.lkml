@@ -30,3 +30,5 @@ explore: segment_overlap {
 }
 
 explore: segment_line_chart_dummy {}
+
+explore: segment_line_chart_dummy_stacked{}
