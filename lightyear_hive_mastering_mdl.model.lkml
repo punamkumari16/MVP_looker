@@ -1,4 +1,4 @@
-connection: "lightyear_athena_mastering_conn"
+connection: "lightyear_hive_mastering_conn"
 
 label: "HIVE Mastering"
 

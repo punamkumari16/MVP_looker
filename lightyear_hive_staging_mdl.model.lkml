@@ -1,6 +1,6 @@
-connection: "lightyear_athena_mastering_conn"
+connection: "lightyear_hive_staging_conn"
 
-label: "HIVE Mastering"
+label: "HIVE Staging"
 
 include: "*.view"
 
